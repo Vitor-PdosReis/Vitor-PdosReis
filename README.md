@@ -35,8 +35,6 @@
 
 ## 📫 Contato
 
-## 📫 Contato
-
 <div align="center">
   <a href="https://www.linkedin.com/in/vreis/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
