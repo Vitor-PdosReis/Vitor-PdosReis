@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! Eu sou o Vitor Reis 👋
 
-<!--
-**Vitor-PdosReis/Vitor-PdosReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em **Bacharelado em Ciência da Computação** pelo IF Sudeste MG – Campus Rio Pomba.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação, interessado em tecnologia, desenvolvimento de software e automação de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente, estou aprofundando meus conhecimentos em programação e desenvolvendo projetos para colocar em prática o que venho aprendendo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens e Desenvolvimento
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,spring" />
+</div>
+
+### Banco de Dados e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea" />
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- Automação de processos
+- Desenvolvimento de aplicações
+- Estrutura de dados e algoritmos
+- Boas práticas de programação
+
+---
+
+## 📫 Contato
+
+- GitHub: [@VitorReis](https://github.com/VitorReis)
+- Gmail: [@VitorReis](vitoricmpc@gmail.com)
